@@ -1,0 +1,55 @@
+body{
+  margin: 0px;
+  background-color: forestgreen;
+}
+.base{
+  background-color: limegreen;
+  margin: 0px;
+  display: flex;
+  padding: 10px;
+}
+h1{
+  width: 220px;
+  margin: auto;
+  color: white;
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 30px;
+}
+h2{
+  font-family: "Gill Sans", sans-serif;
+}
+
+img{
+  width: 200px;
+  border-radius: 10px 10px 2px 2px;
+}
+.amostra{
+  border-radius: 10px;
+  padding: 5px;
+  width: 200px;
+  height: 400px;
+  margin: 20px;
+  background-color: white;
+}
+.descriçao{
+  width: 200px;
+  display: flex;
+  flex-wrap: wrap;
+  height: 30px;
+}
+p{
+  margin: 2px;
+  margin-left: 10px;
+  font-family: arial;
+}
+
+.base-cachorro{
+  width: 1000px;
+  height: 430px;
+  background-color: white;
+  position: absolute;
+  top: 10%;
+  border-radius: 20px;
+  left:5%;
+  display:none;
+}
