@@ -72,7 +72,7 @@ function App() {
       <div className={"base-foto"}>
         <img src={Img3}/>
       </div>
-      <Nomecachorro texto=" Foxhound Inglês" style={{fontSize:22}}/>
+      <Nomecachorro texto=" Foxhound Inglês" />
             <div className={"descriçao"}>
       <BiWorld size={22}/>
       <p style={{color:"green",fontWeight:"bold"}}>Inglaterra</p>
